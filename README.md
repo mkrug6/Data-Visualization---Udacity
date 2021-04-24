@@ -1,4 +1,4 @@
-Data-Visualization-in-Tableau-Udacity
+# Data-Visualization-in-Tableau-Udacity
 this is the final project in nanodegree program of udacity
 
 As part of Udacity's Data Analysis Nano Degree (DAND). Using Tableau, I had to create a Tableau story to deliver specific findings and provide the reasoning behind all design decisions I made for those visualizations.
@@ -7,11 +7,12 @@ Create a Tableau Story Titanic Data
 Summary
 Titanic data contains demographics and passenger information from a subset of the 2224 passengers and crew on board the Titanic. I will create a visualization that shows the demographics or passenger information between those passengers who survived and those who died.
 
-Design
+## Design
 I looked at how each factor(Gender, Ticket Class, Age Group, Embarked from) affect survival rate of the passenger.
 I used a bar charts for looking at how each factor affect survival rates. Since we only have two variables(survival rate, factor), it is easy to compare survival rates.
 I chose to put average survival rate on Y-axis and each factor(Gender, Ticket Class, Age Group, Embarked from) in X-axis so it is easy to compare average survival rate by looking at the height of the bar chart.
-Feedback
+
+## Feedback
 Age visualization is a mass, it is really hard to tell what is going on
 I grouped ages into three groups : minors(0-18), elders(60>), others
 I display AVG(Survived) instead of SUM(Survived).
