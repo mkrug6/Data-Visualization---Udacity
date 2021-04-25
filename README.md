@@ -33,3 +33,11 @@ In your “Design” section please also explain: How did you make your initial 
 I changed Design section of the writeup
 Your visualizations are great. In order to evaluate this section we also need to compare your initial design to final design (after feedback revision) therefore for the next submission, please include 2 links in your write-up, one for the initial design and one for the final version and also please document the changes you've made more in detail in the write-up. For example, you can say based on Feedback "A", I decided to change the plot's type or any other modifications that you have made. We basically want to see how did you improve your project base on the received feedbacks.
 I created two Tableau stories to show initial design and final design
+
+
+
+
+# Sources
+
+2014 Population by State
+https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html#par_textimage_1574439295
