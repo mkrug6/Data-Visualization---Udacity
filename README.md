@@ -7,6 +7,17 @@ Summary
 
 This dataset considers factors from 113,937 loans from Prosper. Factors include loan amount, APR, location, credit rating, and more.
 
+## Tableau Project Links
+
+### Final Revision
+https://public.tableau.com/profile/mkrug6#!/vizhome/Krug-DataVisualizationFinal/Story
+
+### Draft Revision
+https://public.tableau.com/profile/mkrug6#!/vizhome/Krug-DataVisualizationDraft/Story1?publish=yes
+
+
+
+
 # Sources
 
 2014 Population by State
