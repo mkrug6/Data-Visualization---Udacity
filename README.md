@@ -10,7 +10,7 @@ This dataset considers factors from 113,937 loans from Prosper. Factors include 
 ## Tableau Project Links
 
 ### Final Revision
-https://public.tableau.com/profile/mkrug6#!/vizhome/Krug-DataVisualizationFinal/Story
+https://public.tableau.com/profile/mkrug6#!/vizhome/Krug-DataVisualizationFinal/Story?publish=yes
 
 ### Draft Revision
 https://public.tableau.com/profile/mkrug6#!/vizhome/Krug-DataVisualizationDraft/Story1?publish=yes
